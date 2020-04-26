@@ -1,6 +1,8 @@
 # Intel Image Classification
 ## Image Scene Classification of Multiclass
 
+- Dataset can be found at https://www.kaggle.com/puneet6060/intel-image-classification
+
 ### Context
 - This is image data of Natural Scenes around the world.
 
